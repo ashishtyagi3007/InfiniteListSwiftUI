@@ -13,6 +13,8 @@
 		B1F3057F252C476500F99F89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1F3057E252C476500F99F89 /* Assets.xcassets */; };
 		B1F30582252C476500F99F89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1F30581252C476500F99F89 /* Preview Assets.xcassets */; };
 		B1F30585252C476500F99F89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1F30583252C476500F99F89 /* LaunchScreen.storyboard */; };
+		B1F3058D252C47F000F99F89 /* GithubAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F3058C252C47F000F99F89 /* GithubAPI.swift */; };
+		B1F3058F252C7CD700F99F89 /* Spinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F3058E252C7CD700F99F89 /* Spinner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B1F30581252C476500F99F89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1F30584252C476500F99F89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1F30586252C476500F99F89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1F3058C252C47F000F99F89 /* GithubAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubAPI.swift; sourceTree = "<group>"; };
+		B1F3058E252C7CD700F99F89 /* Spinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spinner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				B1F30578252C476200F99F89 /* AppDelegate.swift */,
 				B1F3057A252C476200F99F89 /* SceneDelegate.swift */,
 				B1F3057C252C476200F99F89 /* ContentView.swift */,
+				B1F3058E252C7CD700F99F89 /* Spinner.swift */,
+				B1F3058C252C47F000F99F89 /* GithubAPI.swift */,
 				B1F3057E252C476500F99F89 /* Assets.xcassets */,
 				B1F30583252C476500F99F89 /* LaunchScreen.storyboard */,
 				B1F30586252C476500F99F89 /* Info.plist */,
@@ -149,6 +155,8 @@
 				B1F30579252C476200F99F89 /* AppDelegate.swift in Sources */,
 				B1F3057B252C476200F99F89 /* SceneDelegate.swift in Sources */,
 				B1F3057D252C476200F99F89 /* ContentView.swift in Sources */,
+				B1F3058D252C47F000F99F89 /* GithubAPI.swift in Sources */,
+				B1F3058F252C7CD700F99F89 /* Spinner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
